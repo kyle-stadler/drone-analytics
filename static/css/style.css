@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 5000px;
+    margin: 0 auto;
+    background-color: rgb(123, 51, 238);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    box-shadow: 10px 10px 5px;
+}
+
+h1 {
+    color: #e2d7d7;
+}
+
+
+h2 {
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.upload-download-container {
+    width: 30%;
+    height: 500px;
+    margin-top: 10px;
+    text-align: right;
+}
+
+
+.tableauPlaceholder {
+    width: 70%;
+}
+
+.content-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 20px;
+    max-width: 5000px;
+}
+
+#map {
+    width: 100%;
+    height: 800px;
+  }
+
+button {
+    background-color: rgb(76, 135, 175);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
