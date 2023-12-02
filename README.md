@@ -1,6 +1,6 @@
 # Flight Analytics Dashboard Readme
 
-This readme gives an overview of the Flight Analytics Dashboard application developed for the Software Engineering Capstone. The application is designed to display fire data, analyze drone flight data from a CSV file, and display relevant information along with a flight path on a map.
+This readme gives an overview of the Flight Analytics Dashboard application developed for Parawave as part of the Software Engineering Capstone. The application is designed to display fire data, analyze drone flight data from a CSV file, and display relevant information along with a flight path on a map.
 
 ## Contents
 
